@@ -28,20 +28,3 @@ python main.py
 pyinstaller --onefile --noconsole main.py
 
 
----
-
-# 🌐 STEP 4: Create GitHub Repository
-
-Go to 👉 :contentReference[oaicite:0]{index=0}  
-
-1. Click **New Repository**
-2. Name: `secure-vault-system`
-3. Click **Create**
-
----
-
-# 💻 STEP 5: Push code using terminal
-
-Open VS Code Terminal (inside your project folder)
-
-### Run these commands one by one:
