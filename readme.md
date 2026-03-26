@@ -24,6 +24,8 @@ A Python-based intruder detection system with:
 ```bash
 python main.py
 
+
+
 📦 Build EXE
 pyinstaller --onefile --noconsole main.py
 
